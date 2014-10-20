@@ -8,6 +8,8 @@ list.add('2');
 list.add('3');
 list.add('4');
 list.add('5');
+list.add('6');
+list.add('7');
 var temp1 = new List();
 var temp2 = new List();
 var firstClick = true;

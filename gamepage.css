@@ -1,5 +1,5 @@
 body, html {
-	background: rgb(153, 153, 153);
+/*	background: rgb(153, 153, 153);*/
 	font-family: Arial, sans-serif;
 	height: 100%;
 }
@@ -8,20 +8,32 @@ body, html {
 
 }
 
-#box4 .box {
-	background: green;
-}
-
 #box1 .box {
 	background: pink;
 }
 
 #box2 .box {
-	background: red;
+	background: cyan;
 }
 
 #box3 .box {
-	background: cyan;
+	background: #FFEECA;
+}
+
+#box4 .box {
+	background: #99FF66;
+}
+
+#box5 .box {
+	background: #FFD700;
+}
+
+#box6 .box {
+	background: #FF83FA;
+}
+
+#box7 .box {
+	background: #7D9EC0;
 }
 
 .bigBox {
